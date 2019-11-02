@@ -2,47 +2,47 @@
     {
       "id": 1,
       "name": "Bulbasaur",
-      "image": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
+      "Image": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
     },
     {
       "id": 2,
       "name": "Charmander",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/375px-004Charmander.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/375px-004Charmander.png"
     },
     {
       "id": 3,
       "name": "Squirtle",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/375px-007Squirtle.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/375px-007Squirtle.png"
     },
     {
       "id": 4,
       "name": "Pikachu",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/375px-025Pikachu.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/375px-025Pikachu.png"
     },
     {
       "id": 5,
       "name": "Nidoking",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/c/c6/034Nidoking.png/375px-034Nidoking.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/c/c6/034Nidoking.png/375px-034Nidoking.png"
     },
     {
       "id": 6,
       "name": "Nidoqueen",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/b/bf/031Nidoqueen.png/375px-031Nidoqueen.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/b/bf/031Nidoqueen.png/375px-031Nidoqueen.png"
     },
     {
       "id": 7,
       "name": "Clefairy",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/f/f4/035Clefairy.png/375px-035Clefairy.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/f/f4/035Clefairy.png/375px-035Clefairy.png"
     },
     {
       "id": 8,
       "name": "Arcanine",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/375px-059Arcanine.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/375px-059Arcanine.png"
     },
     {
       "id": 9,
       "name": "Diglett",
-      "image": "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/375px-050Diglett.png"
+      "Image": "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/375px-050Diglett.png"
     }
     
   ]
