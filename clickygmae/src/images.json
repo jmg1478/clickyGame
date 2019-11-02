@@ -2,47 +2,74 @@
     {
       "id": 1,
       "name": "Bulbasaur",
-      "Image": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
     },
     {
       "id": 2,
       "name": "Charmander",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/375px-004Charmander.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/375px-004Charmander.png"
     },
     {
       "id": 3,
       "name": "Squirtle",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/375px-007Squirtle.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/375px-007Squirtle.png"
     },
     {
       "id": 4,
       "name": "Pikachu",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/375px-025Pikachu.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/375px-025Pikachu.png"
     },
     {
       "id": 5,
       "name": "Nidoking",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/c/c6/034Nidoking.png/375px-034Nidoking.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/c/c6/034Nidoking.png/375px-034Nidoking.png"
     },
     {
       "id": 6,
       "name": "Nidoqueen",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/b/bf/031Nidoqueen.png/375px-031Nidoqueen.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/b/bf/031Nidoqueen.png/375px-031Nidoqueen.png"
     },
     {
       "id": 7,
       "name": "Clefairy",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/f/f4/035Clefairy.png/375px-035Clefairy.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/f/f4/035Clefairy.png/375px-035Clefairy.png"
     },
     {
       "id": 8,
       "name": "Arcanine",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/375px-059Arcanine.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/375px-059Arcanine.png"
     },
     {
       "id": 9,
       "name": "Diglett",
-      "Image": "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/375px-050Diglett.png"
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/375px-050Diglett.png"
+    },
+    {
+      "id": 10,
+      "name": "Slowpoke",
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/7/70/079Slowpoke.png/375px-079Slowpoke.png"
+    },
+    {
+      "id": 11,
+      "name": "Gengar",
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/c/c6/094Gengar.png/375px-094Gengar.png"
+    },
+    {
+      "id": 12,
+      "name": "Mew",
+      "clicked": false,
+      "image": "https://cdn.bulbagarden.net/upload/thumb/b/b1/151Mew.png/375px-151Mew.png"
     }
     
   ]
